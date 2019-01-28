@@ -1,0 +1,12 @@
+C:\Users\Nam\source\repos\AutoControllApplicationPC\AutoControllApplicationPC\obj\Debug\AutoControllApplicationPC.csprojAssemblyReference.cache
+C:\Users\Nam\source\repos\AutoControllApplicationPC\AutoControllApplicationPC\obj\Debug\AutoControllApplicationPC.Form1.resources
+C:\Users\Nam\source\repos\AutoControllApplicationPC\AutoControllApplicationPC\obj\Debug\AutoControllApplicationPC.Properties.Resources.resources
+C:\Users\Nam\source\repos\AutoControllApplicationPC\AutoControllApplicationPC\obj\Debug\AutoControllApplicationPC.csproj.GenerateResource.cache
+C:\Users\Nam\source\repos\AutoControllApplicationPC\AutoControllApplicationPC\obj\Debug\AutoControllApplicationPC.csproj.CoreCompileInputs.cache
+C:\Users\Nam\source\repos\AutoControllApplicationPC\AutoControllApplicationPC\bin\Debug\AutoControllApplicationPC.exe.config
+C:\Users\Nam\source\repos\AutoControllApplicationPC\AutoControllApplicationPC\bin\Debug\AutoControllApplicationPC.exe
+C:\Users\Nam\source\repos\AutoControllApplicationPC\AutoControllApplicationPC\bin\Debug\AutoControllApplicationPC.pdb
+C:\Users\Nam\source\repos\AutoControllApplicationPC\AutoControllApplicationPC\obj\Debug\AutoControllApplicationPC.exe
+C:\Users\Nam\source\repos\AutoControllApplicationPC\AutoControllApplicationPC\obj\Debug\AutoControllApplicationPC.pdb
+C:\Users\Nam\source\repos\AutoControllApplicationPC\AutoControllApplicationPC\bin\Debug\KAutoHelper.dll
+C:\Users\Nam\source\repos\AutoControllApplicationPC\AutoControllApplicationPC\obj\Debug\AutoControllApplicationPC.csproj.CopyComplete
